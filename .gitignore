@@ -6,3 +6,8 @@ ivy-cache
 .DS_Store
 org.eclipse.virgo.bundlor.gradle/.gradle
 org.eclipse.virgo.bundlor.gradle/bundlor-plugin/build
+.classpath
+.project
+.settings
+.gradle
+bin
